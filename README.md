@@ -109,7 +109,7 @@ streamlit run dashboard/app.py
 
 ---
 
-## 🔗 Relevance to Google Trust & Safety
+## 🔗 Relevance to Trust & Safety
 
 This project directly demonstrates:
 - ✅ Ability to **design and implement product metrics** to benchmark user trust risks
