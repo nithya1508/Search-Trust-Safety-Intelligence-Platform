@@ -8,14 +8,7 @@
 
 This platform mirrors the core responsibilities of a Trust & Safety Engineering Analyst
 
-| Responsibility | Implementation |
-|---|---|
-| Detect abuse, spam, fraud in Search | ML abuse classifier (XGBoost + features) |
-| Evaluate content safety with LLMs | LLM-based policy violation classifier |
-| Design product metrics to benchmark trust risks | Metrics framework + drift detection |
-| Build datasets for classifier evaluation | Synthetic + augmented dataset generator |
-| Partner with engineers on automated protections | Modular pipeline with REST API |
-| Track improvements over time | Dashboard with time-series KPIs |
+<img width="1440" height="934" alt="image" src="https://github.com/user-attachments/assets/8f33ad32-abaa-4831-ae71-0dd9f480485b" />
 
 ---
 
