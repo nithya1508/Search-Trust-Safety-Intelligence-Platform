@@ -6,7 +6,7 @@
 
 ## 🎯 Project Overview
 
-This platform mirrors the core responsibilities of a Trust & Safety Engineering Analyst at Google Search:
+This platform mirrors the core responsibilities of a Trust & Safety Engineering Analyst
 
 | Responsibility | Implementation |
 |---|---|
